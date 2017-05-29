@@ -10,6 +10,7 @@
     <version>Code-Katas-1.0-SNAPSHOT</version>
     <modules>
         <module>MovieRental</module>
+        <module>YatzyGame</module>
     </modules>
     <dependencies>
         <dependency>
